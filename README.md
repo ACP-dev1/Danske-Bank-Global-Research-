@@ -1,8 +1,5 @@
 # Kan noget slå en random walk på valutakurser?
-
-Jeg lavede det her projekt efter at have søgt en stilling i Global Research hos
-Danske Bank, hvor arbejdet handler om valutamarkedet og makroøkonomi. Det er
-bygget over samme spørgsmål som mit forrige projekt om aktieafkast, bare flyttet
+Projektet bygger på samme spørgsmål som mit forrige projekt om aktieafkast, bare flyttet
 til valuta: kan nogle få variable overhovedet sige noget om kursændringen næste
 måned?
 
